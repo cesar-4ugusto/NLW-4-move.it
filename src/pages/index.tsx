@@ -1,5 +1,5 @@
 import {Profile} from '../components/Profile';
-import { ExperienceBar } from "../components/ExperienceBAr";
+import { ExperienceBar } from "../components/ExperienceBar";
 import { CompletedChallenges } from '../components/CompletedChallenges';
 import { Countdown } from '../components/Countdown';
 
