@@ -1,3 +1,3 @@
 # Move.it
 
-Já ouviu falar no método "Pomodoro"
+Já ouviu falar no método **"Pomodoro"**
