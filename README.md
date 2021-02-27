@@ -6,3 +6,8 @@ Esse projeto foi desenvolvido durante a quarta edição da **NLW 4 (Next Level W
 
 # :rocket: Técnologias Utilizadas 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
+
+* React
+* Typescript
+* NextJS
+* CSS Modules
