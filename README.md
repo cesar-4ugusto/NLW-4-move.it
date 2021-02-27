@@ -4,5 +4,5 @@ Já ouviu falar no método **"Pomodoro"**?, é um método que consiste em se man
 
 Esse projeto foi desenvolvido durante a quarta edição da **NLW 4 (Next Level Week)**, um evento feito pela rocketseat para levar os programadores do mercado para o próximo nível.
 
-:rocket Técnologias Utilizadas
+:rocket: Técnologias Utilizadas
 
